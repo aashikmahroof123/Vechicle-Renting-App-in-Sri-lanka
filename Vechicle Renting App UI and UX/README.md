@@ -1,13 +1,13 @@
 
 # Vehicle Renting App (Navigation Only)
 
-## ✅ Features
+##  Features
 - No backend or functionality required
 - Screen-to-screen navigation implemented
 - Matches design flow provided
 - Built using **React Native + React Navigation + Expo**
 
-## 📌 Screens Included
+##  Screens Included
 - Welcome
 - Login / Signup
 - Home
@@ -17,7 +17,7 @@
 - Owner Post
 - Menu
 
-## ▶️ How to Run
+## How to Run
 
 ### 1. Install dependencies
 ```
@@ -36,8 +36,4 @@ eas build -p android
 
 (Requires Expo account)
 
-## 🎯 Notes
-- UI placeholders only
-- No data functionality
-- Navigation working across all screens
 
